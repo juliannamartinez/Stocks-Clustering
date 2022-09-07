@@ -9,7 +9,7 @@ This dataset contains information on stock price and some financial indicators f
 
 Kmeans Clustering, Hierarchical Clustering, Cluster Profiling, Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
-## This project contains 2 files:
+## This project contains 1 file:
 
 Full notebook (Stocks_clustering_project_FULL_NOTEBOOK.ipynb)
 
